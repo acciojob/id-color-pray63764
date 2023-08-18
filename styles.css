@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+#ex1{
+	border-style:solid;
+	border-width:1px;
+	border-color:green;
+	background:yellow;
+}
+#ex2{
+	border-style:solid;
+	border-width:1px;
+	border-color:black;
+	background:red;
+}
+#ex3{
+	border-style:solid;
+	border-width:1px;
+	border-color:yellow;
+	background:green;
+}
